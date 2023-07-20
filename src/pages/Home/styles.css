@@ -1,0 +1,72 @@
+.conteudo {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.background {
+    height: 90vh;
+    position: relative;
+    left: 0;
+}
+
+.info {
+    width: 100%;
+    margin-right: 90px;
+    margin-top: 40px;
+    color: rgb(1, 96, 207);
+}
+
+input{
+    border: 1px solid #999999;
+    border-radius: 22px;
+    min-width: 250px;
+    width: 80%;
+    margin-right: 12px;
+    background: transparent;
+    font-size: 18px;
+    padding: 10px;
+}
+
+button{
+    border: 1px solid #999999;
+    border-radius: 22px;
+    margin-right: 12px;
+    background: rgb(1, 96, 207);
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.dadosPesquisa {
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: rgba(23, 23, 23, 0.8);
+}
+
+.pages {
+    font-size: 32px;
+    color: rgb(1, 96, 207);
+    display: flex;
+    justify-content: center;
+}
+
+.o-container {
+    display: flex;
+    justify-content: center;
+}
+
+.o {
+    font-size: 32px;
+}
+
+.number-container {
+    display: flex;
+    justify-content: center;
+}
+
+.number {
+    font-size: 20px;
+    margin: 0px 3px;
+}

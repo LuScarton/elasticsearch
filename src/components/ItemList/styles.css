@@ -1,0 +1,15 @@
+.item-list strong {
+    color: rgb(1, 96, 207);
+    font-size: 24px;
+}
+
+.item-list p {
+    color: rgb(87, 90, 95);
+    font-size: 12px;
+    margin-bottom: 12px;
+}
+
+.item-list h4 {
+    color: rgb(87, 90, 95);
+    font-size: 18px;
+}
